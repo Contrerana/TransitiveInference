@@ -10,4 +10,6 @@ Memories are often strengthened by sleep, which can also boost integration and r
 
 Behavioural dataset can be found in OSF repository Closed_loop TMR Relational Learning (DOI 10.17605/OSF.IO/BQAHC)
 
+Dependencies:
 
+EEG analysis:  eeglab (https://sccn.ucsd.edu/eeglab/index.php), fieldtrip (https://www.fieldtriptoolbox.org/)
